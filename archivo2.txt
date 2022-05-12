@@ -1,2 +1,0 @@
-Yo ser el archivo two
-Yo ser el texto agregado después del commit inicial
